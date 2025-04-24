@@ -54,4 +54,8 @@ Resposta (Exemplo):
 }
 ```
 
-Collection no Postman: https://.postman.co/workspace/My-Workspace~0e7269d3-351e-4086-8329-f27dcf8c0819/collection/24510695-18b89dca-023d-4168-ba95-c5527204147f?action=share&creator=24510695
+## Collection no Postman: 
+
+```bash
+  https://.postman.co/workspace/My-Workspace~0e7269d3-351e-4086-8329-f27dcf8c0819/collection/24510695-18b89dca-023d-4168-ba95-c5527204147f?action=share&creator=24510695
+```

@@ -24,8 +24,9 @@ Este projeto tem como objetivo a criação de uma API REST para simulação de e
     composer install
     ```
 4. Execute o servidor localmente:
+   ```bash
    php artisan serve
-   
+   ```
 6. As rotas a serem implementadas são:
     - **GET /instituicoes**: Retorna as instituições disponíveis.
     - **GET /convenios**: Retorna os convênios disponíveis.
